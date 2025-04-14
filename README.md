@@ -23,8 +23,9 @@ Use SQL queries to extract and analyze data from a sample **Ecommerce SQL databa
 
 ## Database Schema
 **Tables created:**
-- `customers (customer_id, customer_name, email, city)`
 - Customers Table:
+- `customers (customer_id, customer_name, email, city)`
+  
 
 - `products (product_id, product_name, price)`
 - `orders (order_id, customer_id, order_date)`
